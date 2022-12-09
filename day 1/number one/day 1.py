@@ -26,5 +26,5 @@ for item in content:
         calories+= num
 
 print(max1 + max2 + max3)
-
+print(204882)
 print(70613*3)
